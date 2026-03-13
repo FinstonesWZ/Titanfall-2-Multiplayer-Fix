@@ -1,4 +1,4 @@
-# Titanfall 2 Multiplayer Fix
+# Titanfall 2 Multiplayer Fix for Intel 10th gen or newer CPUs
 Titanfall 2 Intel OpenSSL bug fix
 
 ## Instructions
